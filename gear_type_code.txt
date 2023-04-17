@@ -1,0 +1,11 @@
+Gear_type_code
+trawlers
+drifting_longlines
+fixed_gear
+set_longlines
+pots_and_traps
+set_gillnets
+purse_seines
+other_purse_seines
+tuna_purse_seines
+pole_and_line
